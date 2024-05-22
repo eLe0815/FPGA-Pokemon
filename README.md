@@ -2,7 +2,7 @@
 This project was developed by Ethan Le and Colin Sianturi and consists of building a system on chip (SoC) on the Nexys A7 100T FPGA board. The SoC itself uses the MicroBlaze Micro Controller System (MCS) and consists of a MMIO subsystem as well as a video subsystem. 
 
 ## System Diagram
-[Diagram](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/soc.PNG)
+![Diagram](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/soc.PNG)
 
 ## MMIO Subsystem
 
@@ -14,9 +14,9 @@ This video subsystem handles various video processing tasks by chaining multiple
 
 ## Results
 
-[Image](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/titlescreen.jpg)
+![Image](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/titlescreen.jpg)
 
-[Image](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/pokemongame.jpg)
+![Image](https://github.com/eLe0815/FPGA-Pokemon/blob/main/Images/pokemongame.jpg)
 
 
 
